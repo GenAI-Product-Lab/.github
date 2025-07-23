@@ -28,3 +28,5 @@ GenAI Product Lab 을 위한 GitHub Organization 입니다.
 |------------|----------------------------------|------|
 | 🏢 파트 영역 | `refiner`, `finetuning`, `evaluation`, `router` | 레포지토리 작업 Owner 파트 |
 | 📌 목적 구분 | `product`, `asset`, `docs` | 해당 레포지토리의 성격 |
+
+Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` 에 추가
