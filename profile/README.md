@@ -18,6 +18,7 @@ GenAI Product Lab 을 위한 GitHub Organization 입니다.
 - Model-Refinery (대문자 사용)
 - model refinery (공백 사용)
 
+
 ## 🏷 Repository Topic Tagging Rule
 아래 표에 따라 각 레포지토리에 적합한 Topic 을 부여바랍니다.
 - 각 구분에서 해당하는 Topic 을 최소 1개 이상 부여합니다.
@@ -27,7 +28,7 @@ GenAI Product Lab 을 위한 GitHub Organization 입니다.
 | 구분       | 태그 예시                       | 설명 |
 |------------|----------------------------------|------|
 | 🏢 파트 영역 | `refiner`, `finetuning`, `evaluation`, `router` | 레포지토리 작업 Owner 파트 |
-| 📌 목적 구분 | `product`, `asset`, `docs` | 해당 레포지토리의 성격 |
+| 📌 목적 구분 | `product`, `asset`, `doc` | 해당 레포지토리의 성격 |
 
 Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` 에 추가
 
