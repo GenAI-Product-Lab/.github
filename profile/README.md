@@ -67,3 +67,10 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 
 
 
+## 그 외 유용한 정보들
+
+### git 자격증명 cache
+GitHub 은 인증을 PAT (Personal Access Token) 로 하다보니 매번 토큰값을 복붙하는게 힘들다면, 캐싱 하는 것을 추천 (timeout 초단위)
+```bash
+git config --global credential.helper 'cache --timeout=31536000'
+```
