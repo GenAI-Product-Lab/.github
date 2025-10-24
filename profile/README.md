@@ -58,12 +58,12 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 |18	|이주호	|juho1107           |
 |19	|이지혜	|modesta-jihye-lee  |
 |20	|장하림	|hrjang9004         |
-|21	|조민주	|minju-hi           |
-|22	|최성우	|swchoi1994         |
-|23	|강연호	|Heugta             |
-|24	|유창민	|fluentmin          |
-|25	|이연서	|reneovolee         |
-|26	|조은기	|gumgizoa           |
+|😢	|~~조민주~~|~~minju-hi~~         |
+|21	|최성우	|swchoi1994         |
+|22	|강연호	|Heugta             |
+|23	|유창민	|fluentmin          |
+|24	|이연서	|reneovolee         |
+|25	|조은기	|gumgizoa           |
 
 
 
