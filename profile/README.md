@@ -44,26 +44,26 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 |4	|임승영	|seungyounglim      |
 |5	|김종완	|matia0521          |
 |6	|김지아	|kja815             |
-|7	|신명화	|juliejoy10         |
-|8	|윤성종	|sean-yoon          |
-|9	|전창원	|changwonjeon       |
-|10	|강민수	|minsookang38       |
-|11	|김민정	|Minjung25          |
-|12	|김석환	|KSH94              |
-|13	|박동재	|PARKDONGJAE        |
-|14	|배노협	|hyeobiiii          |
-|15	|유선아	|seona21            |
-|16	|이민형	|inoutro            |
-|17	|이석진	|iwill231           |
-|18	|이주호	|juho1107           |
-|19	|이지혜	|modesta-jihye-lee  |
-|20	|장하림	|hrjang9004         |
+|😢	|~~신명화~~	|~~juliejoy10~~         |
+|7	|윤성종	|sean-yoon          |
+|8	|전창원	|changwonjeon       |
+|9	|강민수	|minsookang38       |
+|10	|김민정	|Minjung25          |
+|11	|김석환	|KSH94              |
+|12	|박동재	|PARKDONGJAE        |
+|13	|배노협	|hyeobiiii          |
+|14	|유선아	|seona21            |
+|15	|이민형	|inoutro            |
+|16	|이석진	|iwill231           |
+|17	|이주호	|juho1107           |
+|18	|이지혜	|modesta-jihye-lee  |
+|19	|장하림	|hrjang9004         |
 |😢	|~~조민주~~|~~minju-hi~~         |
-|21	|최성우	|swchoi1994         |
-|22	|강연호	|Heugta             |
-|23	|유창민	|fluentmin          |
-|24	|이연서	|reneovolee         |
-|25	|조은기	|gumgizoa           |
+|20	|최성우	|swchoi1994         |
+|21	|강연호	|Heugta             |
+|22	|유창민	|fluentmin          |
+|23	|이연서	|reneovolee         |
+|24	|조은기	|gumgizoa           |
 
 
 
