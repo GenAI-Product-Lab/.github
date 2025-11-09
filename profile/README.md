@@ -60,7 +60,7 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 |19	|장하림	|hrjang9004         |
 |😢	|~~조민주~~|~~minju-hi~~         |
 |20	|최성우	|swchoi1994         |
-|21	|강연호	|Heugta             |
+|21	|강연호	|octokang             |
 |22	|유창민	|fluentmin          |
 |23	|이연서	|reneovolee         |
 |24	|조은기	|gumgizoa           |
