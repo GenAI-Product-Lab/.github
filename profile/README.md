@@ -1,5 +1,5 @@
-# GenAI Product Lab
-GenAI Product Lab 을 위한 GitHub Organization 입니다.
+# Agentic AI기술팀
+Agentic AI기술팀 을 위한 GitHub Organization 입니다.
   
 
 ## 📝Repository Naming Convention
@@ -36,34 +36,35 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 ## 👥 팀 구성원 Username
 
 
-|No.|이름   |Username           | 
-|---|------|-------------------|
-|1  |정윤정 |mydearlutein       |
-|2	|김영민	|aoamore            |
-|3	|박선진	|narfian            |
-|4	|임승영	|seungyounglim      |
-|5	|김종완	|matia0521          |
-|6	|김지아	|kja815             |
-|😢	|~~신명화~~	|~~juliejoy10~~         |
-|7	|윤성종	|sean-yoon          |
-|8	|전창원	|changwonjeon       |
-|9	|강민수	|minsookang38       |
-|10	|김민정	|Minjung25          |
-|11	|김석환	|KSH94              |
-|12	|박동재	|PARKDONGJAE        |
-|13	|배노협	|hyeobiiii          |
-|14	|유선아	|seona21            |
-|15	|이민형	|inoutro            |
-|16	|이석진	|iwill231           |
-|17	|이주호	|juho1107           |
-|18	|이지혜	|modesta-jihye-lee  |
-|19	|장하림	|hrjang9004         |
-|😢	|~~조민주~~|~~minju-hi~~         |
-|20	|최성우	|swchoi1994         |
-|21	|강연호	|octokang             |
-|22	|유창민	|fluentmin          |
-|23	|이연서	|reneovolee         |
-|24	|조은기	|gumgizoa           |
+|No.|이름   |Username           |비고  |
+|---|------|-------------------|----|
+|1  |정윤정	|myde arlutein      ||
+|-	|김영민	|aoamore            |~1/23|
+|2	|박선진	|narfian            ||
+|3	|임승영	|seungyounglim      ||
+|4	|김종완	|matia0521          ||
+|5	|김지아	|kja815             ||
+|6	|윤성종	|sean-yoon          ||
+|7	|전창원	|changwonjeon       ||
+|8	|강민수	|minsookang38       ||
+|9	|김민정	|Minjung25          ||
+|10	|김석환	|KSH94              ||
+|11	|김영운	|ywkim92            ||
+|12	|박동재	|PARKDONGJAE        ||
+|13	|배노협	|hyeobiiii          ||
+|-	|유선아	|seona21            |~1/23|
+|14	|이민형	|inoutro            ||
+|15	|이석진	|iwill231           ||
+|16	|이주호	|juho1107           ||
+|17	|이지혜	|modesta-jihye-lee  ||
+|18	|장하림	|hrjang9004         ||
+|-	|최성우	|swchoi1994         |~1/23|
+|19	|정한솔	|hanssoljung        ||
+|20	|주민재	|minjaeju           ||
+|21	|강연호	|octokang           ||
+|22	|유창민	|fluentmin          ||
+|23	|이연서	|reneovolee         ||
+|-	|조은기	|gumgizoa           |~1/23|
 
 ## 👥 팀 외 구성원 (Outside Collaborators)
 
