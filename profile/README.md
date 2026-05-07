@@ -38,8 +38,7 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 
 |No.|이름   |Username           |비고  |
 |---|------|-------------------|----|
-|1  |정윤정	|myde arlutein      ||
-|-	|김영민	|aoamore            |~1/23|
+|1  |이현의	|hyuneui-stat      ||
 |2	|박선진	|narfian            ||
 |3	|임승영	|seungyounglim      ||
 |4	|김종완	|matia0521          ||
@@ -50,28 +49,24 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 |9	|김민정	|Minjung25          ||
 |10	|김석환	|KSH94              ||
 |11	|김영운	|ywkim92            ||
-|12	|박동재	|PARKDONGJAE        ||
-|13	|배노협	|hyeobiiii          ||
-|-	|유선아	|seona21            |~1/23|
-|14	|이민형	|inoutro            ||
-|15	|이석진	|iwill231           ||
-|16	|이주호	|juho1107           ||
-|17	|이지혜	|modesta-jihye-lee  ||
-|18	|장하림	|hrjang9004         ||
-|-	|최성우	|swchoi1994         |~1/23|
-|19	|정한솔	|hanssoljung        ||
-|20	|주민재	|minjaeju           ||
-|21	|강연호	|octokang           ||
-|22	|유창민	|fluentmin          ||
-|23	|이연서	|reneovolee         ||
-|-	|조은기	|gumgizoa           |~1/23|
+|12	|배노협	|hyeobiiii          ||
+|13	|이민형	|inoutro            ||
+|14	|이석진	|iwill231           ||
+|15	|이주호	|juho1107           ||
+|16	|이지혜	|modesta-jihye-lee  ||
+|17	|장하림	|hrjang9004         ||
+|18	|정한솔	|hanssoljung        ||
+|19	|주민재	|minjaeju           ||
+|20	|강연호	|octokang           ||
+|21	|유창민	|fluentmin          ||
+|22	|이연서	|reneovolee         ||
 
 ## 👥 팀 외 구성원 (Outside Collaborators)
 
 |이름  |직급/직책  |Username          | 기간   |  관련 작업 |
 |------|-----------|------------------|--------|--------|
-|김다인 |선임       |dain5832          |11/10 - 12/31| 라우터 관련 Repo 공동 개발 |
-|김대훈 |선임       |daehun614         |11/25 - 12/31| refiner-trainer 에 Agentic AI Lab 에셋 탑재 |
+|- |-       |-          |-| - |
+
 
 
 
