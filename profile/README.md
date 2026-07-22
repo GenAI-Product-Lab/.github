@@ -53,7 +53,7 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 |13	|이민형	|inoutro            ||
 |14	|이석진	|iwill231           ||
 |15	|이주호	|juho1107           ||
-|16	|이지혜	|modesta-jihye-lee  ||
+|16	|유영진	|yuyeongjin0814     ||
 |17	|장하림	|hrjang9004         ||
 |18	|정한솔	|hanssoljung        ||
 |19	|주민재	|minjaeju           ||
@@ -65,7 +65,7 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 
 |이름  |직급/직책  |Username          | 기간   |  관련 작업 |
 |------|-----------|------------------|--------|--------|
-|- |-       |-          |-| - |
+|진광호 |선임 AI플랫폼Core팀|khjin          |-| awx-vllm-serving |
 
 
 
