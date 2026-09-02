@@ -49,17 +49,16 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 |9	|김민정	|Minjung25          ||
 |10	|김석환	|KSH94              ||
 |11	|김영운	|ywkim92            ||
-|12	|배노협	|hyeobiiii          ||
-|13	|이민형	|inoutro            ||
-|14	|이석진	|iwill231           ||
-|15	|이주호	|juho1107           ||
-|16	|유영진	|yuyeongjin0814     ||
-|17	|장하림	|hrjang9004         ||
-|18	|정한솔	|hanssoljung        ||
-|19	|주민재	|minjaeju           ||
-|20	|강연호	|octokang           ||
-|21	|유창민	|fluentmin          ||
-|22	|이연서	|reneovolee         ||
+|12	|이민형	|inoutro            ||
+|13	|이석진	|iwill231           ||
+|14	|이주호	|juho1107           ||
+|15	|유영진	|yuyeongjin0814     ||
+|16	|장하림	|hrjang9004         ||
+|17	|정한솔	|hanssoljung        ||
+|18	|주민재	|minjaeju           ||
+|19	|강연호	|octokang           ||
+|20	|유창민	|fluentmin          ||
+|21	|이연서	|reneovolee         ||
 
 ## 👥 팀 외 구성원 (Outside Collaborators)
 
