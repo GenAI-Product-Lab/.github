@@ -60,6 +60,7 @@ Topic Tag 적용 방법 : `적용할 레포지토리` > `About ⚙` > `Topics` �
 |20	|강연호	|octokang           ||
 |21	|유창민	|fluentmin          ||
 |22	|이연서	|reneovolee         ||
+|23	|박수안	|sooanp             ||
 
 ## 👥 팀 외 구성원 (Outside Collaborators)
 
